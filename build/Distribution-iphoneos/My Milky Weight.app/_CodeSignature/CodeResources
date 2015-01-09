@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>MainWindow.nib</key>
+		<data>
+		A3D0hSzX1HAbO4QZopgZypkydm4=
+		</data>
+		<key>My_Milky_WeightViewController.nib</key>
+		<data>
+		D4zXF0pdrkxCtIOFp7TB9iCJU3I=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		s/qdmUh+PKT0rtldd7jcd4eWwVo=
+		</data>
+		<key>icon52.png</key>
+		<data>
+		13W21smN0UHnYovOaWxgQE+tnTs=
+		</data>
+		<key>icon57.png</key>
+		<data>
+		mSzC3R4UtVQMPRe1Ccrajja+3OY=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
