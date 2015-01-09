@@ -249,6 +249,7 @@
 				GCC_PREFIX_HEADER = My_Milky_Weight_Prefix.pch;
 				INFOPLIST_FILE = "My_Milky_Weight-Info.plist";
 				PRODUCT_NAME = "My Milky Weight";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "72D38526-A1FF-446E-9F3F-F251375AE51B";
 			};
 			name = Distribution;
 		};

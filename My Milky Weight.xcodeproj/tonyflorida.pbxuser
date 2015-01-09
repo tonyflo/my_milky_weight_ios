@@ -29,9 +29,9 @@
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
-		activeBuildConfigurationName = Debug;
+		activeBuildConfigurationName = Distribution;
 		activeExecutable = CF8B5E5C11D4C763000E6875 /* My Milky Weight */;
-		activeSDKPreference = iphonesimulator3.1.3;
+		activeSDKPreference = iphoneos3.1.3;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* My Milky Weight */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* My Milky Weight */,
@@ -85,8 +85,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 299454744;
-			PBXWorkspaceStateSaveDate = 299454744;
+			PBXPerProjectTemplateStateSaveDate = 300039883;
+			PBXWorkspaceStateSaveDate = 300039883;
 		};
 		perUserProjectItems = {
 			CF5D1F7B11D50EB7005C5E99 /* PBXTextBookmark */ = CF5D1F7B11D50EB7005C5E99 /* PBXTextBookmark */;
@@ -100,8 +100,8 @@
 			CF8B5E7911D4CEA6000E6875 /* PBXTextBookmark */ = CF8B5E7911D4CEA6000E6875 /* PBXTextBookmark */;
 			CF8B5E7A11D4CEA6000E6875 /* PBXTextBookmark */ = CF8B5E7A11D4CEA6000E6875 /* PBXTextBookmark */;
 			CF8BAF1511D4FDF0000E86BA /* PBXTextBookmark */ = CF8BAF1511D4FDF0000E86BA /* PBXTextBookmark */;
-			CF95A38311D95056005BA5E2 /* PBXBookmark */ = CF95A38311D95056005BA5E2 /* PBXBookmark */;
-			CF95A3BB11D9514E005BA5E2 /* PBXBookmark */ = CF95A3BB11D9514E005BA5E2 /* PBXBookmark */;
+			CF8E3CBB11E23D9500B4956D /* PBXBookmark */ = CF8E3CBB11E23D9500B4956D /* PBXBookmark */;
+			CF97BA5A11E23F6C003DE23E /* PBXBookmark */ = CF97BA5A11E23F6C003DE23E /* PBXBookmark */;
 			CF98D9E011D5582E00E2E150 /* PlistBookmark */ = CF98D9E011D5582E00E2E150 /* PlistBookmark */;
 		};
 		sourceControlManager = CF8B5E6B11D4C783000E6875 /* Source Control */;
@@ -271,11 +271,11 @@
 		vrLen = 735;
 		vrLoc = 289;
 	};
-	CF95A38311D95056005BA5E2 /* PBXBookmark */ = {
+	CF8E3CBB11E23D9500B4956D /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = CF98D9DB11D5581000E2E150 /* icon57.png */;
 	};
-	CF95A3BB11D9514E005BA5E2 /* PBXBookmark */ = {
+	CF97BA5A11E23F6C003DE23E /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = CF98D9DB11D5581000E2E150 /* icon57.png */;
 	};
